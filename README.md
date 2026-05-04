@@ -1,4 +1,3 @@
-# deepseek-qa-portfolio
 # DeepSeek QA Portfolio
 
 Привет! Меня зовут Алексей, и это моё портфолио тестировщика и AI-архитектора.  
