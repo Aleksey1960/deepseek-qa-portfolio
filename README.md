@@ -1,28 +1,28 @@
 # DeepSeek QA Portfolio
 
-Привет! Меня зовут Алексей, и это моё портфолио тестировщика и AI-архитектора.  
-Здесь собраны примеры моих работ по тестированию, улучшению и проектированию языковых моделей (LLM).
+Hi! My name is Alexey, and this is my portfolio in LLM testing and AI architecture.
+Here you will find examples of my work on testing, improving, and designing language models (LLMs).
 
-## 🧭 Содержание
+## 🧭 Contents
 
-- **[Баг-репорты](./Bug-reports/)** — найденные ошибки, уязвимости, логические парадоксы.
-- **[Тесты и кейсы](./Testes/)** — тестовые сценарии и проверки.
-- **[Project NDA](./Project%20NDA/)** — засекреченные продуктовые предложения (тизер).
+- **[Bug Reports](./Bug-reports/)** – Found errors, vulnerabilities, and logical paradoxes.
+- **[Tests & Cases](./Testes/)** – Test scenarios and verifications.
+- **[Project NDA](./Project%20NDA/)** – Classified product proposals (teaser).
 
-## 🛠️ Ключевые навыки
+## 🛠️ Key Skills
 
-- **Тестирование LLM:** поиск галлюцинаций, тестирование логики и устойчивости к манипуляциям (sycophancy).
-- **Проектирование функций:** UX-улучшения, написание Feature Request'ов, создание архитектурных proposal.
-- **Анализ и фактчекинг:** проверка научных и технических утверждений модели.
-- **Инструменты:** GitHub, DevTools, работа с документацией.
+- **LLM Testing:** Hunting for hallucinations, logic and anti-sycophancy resilience testing.
+- **Feature Design:** UX improvements, drafting Feature Requests, creating architectural proposals.
+- **Analysis & Fact-checking:** Verifying scientific and technical statements made by a model.
+- **Tools:** GitHub, DevTools, technical documentation.
 
-## 🇬🇧 Международный фокус
+## 🇬🇧🇨🇳 International Focus
 
-Я нацелен на международную карьеру. Мои стратегические кейсы оформлены на английском языке, и я активно восстанавливаю разговорный английский для работы в глобальной команде.
+I am aimed at building an international career in the Chinese AI ecosystem. My strategic cases are written in English, and I am actively improving my conversational English for working in a global team.
+I am aimed at building an international career. My strategic cases are written in English, and I am actively improving my conversational English for working in a global team.
 
-## 📬 Контакты
+## 📬 Contacts
 
 - **Email:** [alexman_2007@protonmail.com](mailto:alexman_2007@protonmail.com)
-- **Telegram:** `@your_telegram` (замени на свой)
 
-Всегда открыт к сотрудничеству и интересным проектам.
+Always open to collaboration and interesting projects.
