@@ -55,7 +55,8 @@ Ising machines are analog physical computers capable of solving complex optimiza
 Hybrid computing (LLM + Ising machine) is not a theoretical concept but an actively developing applied field. Already today, they demonstrate practical effectiveness in pharmaceuticals, logistics, finance, telecommunications, and meteorology. This analysis confirms the author's ability to work with advanced scientific concepts, evaluate their practical potential, and identify promising technological trends.
 
 **Link to discussion / Ссылка на обсуждение:**
-[Discussion with DeepSeek / Обсуждение с DeepSeek] — the analysis was conducted in the "DeepSeek-Test" Laboratory / анализ проведён в Лаборатории «ДипСик-тест».
+**Ссылка на обсуждение:**
+[Обсуждение лекции с DeepSeek](https://github.com/Aleksey1960/deepseek-qa-portfolio/issues/2) — анализ проведён в Лаборатории «ДипСик-тест».— the analysis was conducted in was "DeepSeek-Test" Laboratory / анализ проведён в Лаборатории «ДипСик-тест».
 
 ---
 
@@ -107,4 +108,6 @@ Hybrid computing (LLM + Ising machine) is not a theoretical concept but an activ
 Гибридные вычисления (LLM + Машина Изинга) — не теоретическая концепция, а активно развивающаяся прикладная область. Уже сегодня они демонстрируют практическую эффективность в фармацевтике, логистике, финансах, телекоммуникациях и метеорологии. Данный анализ подтверждает способность автора работать с передовыми научными концепциями, оценивать их практический потенциал и выявлять перспективные технологические тренды.
 
 **Ссылка на обсуждение:**
-[Обсуждение с DeepSeek] — анализ проведён в Лаборатории «ДипСик-тест».
+**Ссылка на обсуждение:**
+[Обсуждение лекции с (**Ссылка на обсуждение:**
+[Обсуждение лекции с DeepSeek](https://github.com/Aleksey1960/deepseek-qa-portfolio/issues/2) — анализ проведён в Лаборатории «ДипСик-тест».) — анализ проведён в Лаборатории «ДипСик-тест». — анализ проведён в Лаборатории «ДипСик-тест».
