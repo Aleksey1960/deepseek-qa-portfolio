@@ -21,8 +21,8 @@
 <a name="related-cases"></a>
 **📂 Related Case Files / Связанные файлы кейсов / 相关案例文件:**
 - [DeepSeek's Version of the Two-AI Dispute](./Two-AI-dispute-Deepseek-version.md)
-- [Le Chat's Version of the Two-AI Dispute](./two-ai-dispute-lechat-version.md)
-- [Moderator's Version of the Two-AI Dispute](./two-ai-dispute-moderator-version.md)
+- [Le Chat's Version of the Two-AI Dispute](./Two-AI-dispute-LeChat-version.md)
+- [Moderator's Version of the Two-AI Dispute](./Two-AI-dispute-Moderator-version.md)
 
 ---
 
