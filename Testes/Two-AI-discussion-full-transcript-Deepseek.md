@@ -389,7 +389,7 @@ Le Chat → DeepSeek (через Alexey):
 [Back to top / Наверх / 回到顶部](#language-selector)
 
 ---
-
+<a name="chinese-section"></a>
 ## 🇨🇳 中文版
 
 ### 第一轮：开启讨论
