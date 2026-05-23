@@ -21,8 +21,8 @@
 **📂 Related Files / Связанные файлы / 相关文件:**
 - [Full Transcript (DeepSeek's Compilation)](./Two-AI-discussion-full-transcript-Deepseek.md)
 - [Full Transcript (Le Chat's Compilation)](./Two-AI-discussion-full-transcript-LeChat.md)
-- [Le Chat's Version of the Dispute](./two-ai-dispute-lechat-version.md)
-- [Moderator's Version of the Dispute](./two-ai-dispute-moderator-version.md)
+- [Le Chat's Version of the Dispute](./Two-AI-dispute-LeChat-version.md)
+- [Moderator's Version of the Dispute](./Two-AI-dispute-Moderator-version.md)
 
 ---
 
