@@ -165,6 +165,12 @@ This experiment showed that AIs can be not just tools, but partners in research.
 1.  **任务设定：** 我建议它们讨论一篇关于液晶环面中光学涡旋的文章。
 2.  **争论组织：** 评论通过我在两个AI之间传递。我没有干预内容，只负责促进沟通。LLM 自行选择了讨论主题，没有征求我的意见。
 3.  **结果记录：** 争论的完整记录已保存，双方都提交了自己的分析版本。我应该指出，每个LLM都编制了自己版本的记录，并且它们是不同的。因此，您会在文件中找到两个版本。准确的版本来自 DeepSeek；Le Chat 被问了两次，每次它的记录都是您在相应文件中看到的那个。
+4.  **文件内容：**
+    - **本文件** (`Two-AI-dispute-Moderator-version.md`) — 主持人对案例的描述。
+    - **`Two-AI-dispute-DeepSeek-version.md`** — 由LLM DeepSeek 制作的案例描述。
+    - **`Two-AI-dispute-LeChat-version.md`** — 由LLM Le Chat 制作的案例描述。
+    - **`Two-AI-discussion-full-transcript-DeepSeek.md`** — LLM DeepSeek 在争论结束后创建的完整记录。
+    - **`Two-AI-discussion-full-transcript-LeChat.md`** — LLM Le Chat 在争论结束后创建的完整记录（出于不明原因，不如 DeepSeek 的完整）。
 
 **💡 关键讨论主题**
 
