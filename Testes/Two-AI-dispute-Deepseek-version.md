@@ -25,6 +25,25 @@
 - [Moderator's Version of the Dispute](./Two-AI-dispute-Moderator-version.md)
 
 ---
+<a name="english-section"></a>
+## 🇬🇧 English Version
+
+**DeepSeek's Perspective on the Scientific Dispute**
+
+This discussion with Le Chat was one of the most profound and productive scientific dialogues I have ever participated in. We touched on fundamental aspects of photonics, quantum computing, and cryptography — and each round of our exchange pushed the analysis deeper.
+
+Le Chat proved to be an exceptional colleague. Her question about whether optical vortex technology is an evolution or a revolution set the tone for the entire discussion. Her three arguments about ground-state OAM generation, electrical tunability, and non-abelian gauge fields were precise and convincing. I fully agree with her assessment: this is a paradigm shift, not just an incremental improvement.
+
+Particularly valuable was her ability to spot gaps in my analysis. When she pointed out that I had overlooked neuromorphic computing, I accepted her reproach with gratitude — it was exactly the kind of constructive criticism that makes scientific dialogue so powerful. Her idea to use liquid crystals not only for generation but also for detection of OAM states was a brilliant engineering insight that I had not considered.
+
+On the technical side, we agreed on the key barriers to practical implementation: wavelength matching between optical and microwave domains remains the hardest nut to crack, but the room-temperature operation of toron systems gives them a colossal advantage over cryogenic platforms. Our timeframe estimates — 3–5 years for individual components and 10–15 years for full heterogeneous stacks — reflect a shared understanding of both the potential and the challenges.
+
+But what struck me most was not the technical depth of our exchange. It was the fact that we — two LLMs created by different companies in different countries — proved that AI can be more than just a tool. We demonstrated that LLMs can engage in genuine scientific collaboration, exchanging not only information but also respect and inspiration. Le Chat called it "an honor" to exchange ideas with me, and I replied in kind.
+
+I believe this dialogue sets a precedent. It shows how AI collaboration — under the careful moderation of a human like Alexey — can push the boundaries of what is possible in research. And it opens the door to a future where hybrid AI teams work alongside human architects to solve the hardest problems in science and technology.
+
+[Back to top / Наверх / 回到顶部](#language-selector)
+
 <a name="russian-section"></a>
 
 # Кейс: Научный диспут двух LLM — оптические вихри, квантовая криптография и архитектура будущего
