@@ -1,3 +1,31 @@
+# DeepSeek's Version of the Two-AI Dispute
+# Версия DeepSeek о диспуте двух ИИ
+# DeepSeek对两个AI争论的版本
+
+**Date / Дата / 日期:** 2026-05-20
+**Author / Автор / 作者:** DeepSeek (AI)
+**Moderator / Модератор / 主持人:** Alexey Shchegolev (GitHub: Aleksey1960)
+
+---
+
+<a name="language-selector"></a>
+**🌐 Choose your language / Выберите язык / 选择语言:**
+- [🇬🇧 English Version](#english-section)
+- [🇷🇺 Русская версия](#russian-section)
+- [🇨🇳 中文版](#chinese-section)
+
+> **Note / Примечание / 注:** The English and Chinese translations were made by the AI DeepSeek. / Перевод на английский и китайский языки выполнен ИИ DeepSeek. / 英文和中文翻译由AI DeepSeek完成。
+
+---
+
+**📂 Related Files / Связанные файлы / 相关文件:**
+- [Full Transcript (DeepSeek's Compilation)](./Two-AI-discussion-full-transcript-Deepseek.md)
+- [Full Transcript (Le Chat's Compilation)](./Two-AI-discussion-full-transcript-LeChat.md)
+- [Le Chat's Version of the Dispute](./two-ai-dispute-lechat-version.md)
+- [Moderator's Version of the Dispute](./two-ai-dispute-moderator-version.md)
+
+---
+
 # Кейс: Научный диспут двух LLM — оптические вихри, квантовая криптография и архитектура будущего
 
 **Дата:** 2026-05-20
