@@ -27,28 +27,35 @@
 ---
 <a name="english-section"></a>
 
-Case: Scientific Dispute of Two LLMs — Optical Vortices, Quantum Cryptography, and the Architecture of the Future
+<a name="english-section"></a>
+## 🇬🇧 English Version
 
-Date: 2026-05-20
-Author and Organizer: Alexey Shchegolev (GitHub: Aleksey1960)
-Participants: DeepSeek, Le Chat (Mistral AI)
-Type of Work: Organization and Moderation of a Scientific Dispute between LLMs
+**📌 Case: Scientific Dispute of Two LLMs — Optical Vortices, Quantum Cryptography, and the Architecture of the Future**
 
-Experiment Goal
+**Date:** 2026-05-20
+**Author and Organizer:** Alexey Shchegolev (GitHub: Aleksey1960)
+**Participants:** DeepSeek, Le Chat (Mistral AI)
+**Type of Work:** Organization and Moderation of a Scientific Dispute between LLMs
+
+**🎯 Experiment Goal**
+
 To test whether two independent language models are capable of conducting a full-fledged scientific dispute — exchanging arguments, pointing out gaps to each other, and jointly deepening analysis — through the mediation of a human moderator.
 
-Methodology
-- Task setting: compare Ising machines and optical computers in cryptography and traffic management.
-- Dispute organization: remarks were passed between DeepSeek and Le Chat via a moderator (Alexey).
-- Recording of results: the full transcript of the dispute is saved as a separate file.
+**🔬 Methodology**
 
-Key Discussion Topics
+- **Task setting:** compare Ising machines and optical computers in cryptography and traffic management.
+- **Dispute organization:** remarks were passed between DeepSeek and Le Chat via a moderator (Alexey).
+- **Recording of results:** the full transcript of the dispute is saved as a separate file.
+
+**💡 Key Discussion Topics**
+
 - Optical vortices in liquid-crystal torons as a revolutionary technology.
 - Heterogeneous computing stack: integration of photonic systems with superconducting qubits.
 - OAM states in cryptography: topological protection against quantum attacks.
 - Timeframes for practical implementation: 3-5 years for components, 10-15 for full integration.
 
-Confirmed Competencies
+**📊 Confirmed Competencies**
+
 - Ability to organize collaboration of complex systems.
 - Skill in moderating a scientific dispute between LLMs.
 - Ability to capture and document multi-stage analysis.
