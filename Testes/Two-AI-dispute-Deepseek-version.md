@@ -25,6 +25,7 @@
 - [Moderator's Version of the Dispute](./Two-AI-dispute-Moderator-version.md)
 
 ---
+<a name="russian-section"></a>
 
 # Кейс: Научный диспут двух LLM — оптические вихри, квантовая криптография и архитектура будущего
 
