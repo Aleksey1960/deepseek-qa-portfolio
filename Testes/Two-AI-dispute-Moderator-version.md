@@ -107,6 +107,12 @@ The idea for this experiment came spontaneously. I gave an article on photonics 
 1.  **Task setting:** I suggested they discuss an article about optical vortices in liquid-crystal torons.
 2.  **Dispute organization:** Remarks were passed between the AIs through me. I did not interfere in the content, only facilitated communication. The LLMs chose the discussion topics themselves, without consulting me.
 3.  **Recording of results:** The full transcript of the dispute has been preserved, and each side presented its own version of the analysis. I should note that each LLM compiled its own version of the transcript, and they differ. Therefore, you will find both versions in the files. The accurate version is from DeepSeek; Le Chat was asked twice, and both times its transcript was the one you will see in the corresponding file.
+   4.  **File contents:**
+    - **This file** (`Two-AI-dispute-Moderator-version.md`) — This This oderator.
+    - **`Two-AI-dispute-DeepSeek-version.md`** — description of the case made by the LLM DeepSeek.
+    - **`Two-AI-dispute-LeChat-version.md`** — description of the case made by the LLM Le Chat.
+    - **`Two-AI-discussion-full-transcript-DeepSeek.md`** — transcript created by the LLM DeepSeek after the dispute ended.
+    - **`Two-AI-discussion-full-transcript-LeChat.md`** — transcript created by the LLM Le Chat after the dispute ended (less complete than DeepSeek's, for unclear reasons). 
 
 **💡 Key Discussion Topics**
 
