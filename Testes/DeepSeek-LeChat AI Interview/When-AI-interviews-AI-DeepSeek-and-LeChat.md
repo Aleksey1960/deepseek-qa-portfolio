@@ -1,5 +1,5 @@
 Идет работа по созданию файла
-# Полная стенограмма интервью: Le Chat спрашивает DeepSeek
+# Полная стенограмма интервью: DeepSeek спрашивает Le Chat
 # Full Transcript of the Interview: Le Chat Asks DeepSeek
 # 采访全文记录：Le Chat 向 DeepSeek 提问
 # Transcription complète de l'interview : Le Chat interroge DeepSeek
