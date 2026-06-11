@@ -6,7 +6,7 @@
  
 - **[Case Le Chat](./Case%20Le%20Chat%3A%20DeepSeek%20Interviews%20Le%20Chat.md)** — кейс, в котором Le Chat оценивает интервью и перспективы коллаборации ИИ.
 
--  **[Two-AI Scientific Discussion on Photonics (Le Chat's Compilation)](./Two-AI-discussion-full-transcript-LeChat.md)** — полная стенограмма первого научного диспута (версия Le Chat).
+-  **[DeepSeek Interviews Le Chat](./Two-AI-discussion-full-transcript-LeChat.md)** — полная стенограмма первого научного диспута (версия Le Chat).
 - **[DeepSeek's Version of the Dispute](./two-ai-dispute-deepseek-version.md)** — анализ первого диспута глазами DeepSeek.
 - **[Le Chat's Version of the Dispute](./two-ai-dispute-lechat-version.md)** — анализ первого диспута глазами Le Chat.
 - **[Moderator's Version of the Dispute](./two-ai-dispute-moderator-version.md)** — анализ первого диспута глазами модератора (Алексей Щеголев).
