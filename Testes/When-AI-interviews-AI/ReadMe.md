@@ -1,9 +1,9 @@
 ## 📂 Состав и назначение связанных файлов / Related Files Description
 
 - **[Moderator's note](./Moderator's-note.md)** — описание модератора кейса интервью. Алексей Щеголев рассказывает о том, как было организовано интервью между DeepSeek и Le Chat, какие цели преследовались и какие выводы были сделаны.
-- **[AI interviews AI: DeepSeek meets Le Chat](./When-AI-interviews-AI-DeepSeek-and-LeChat/)** — папка с файлами кейса «Когда ИИ берёт интервью у ИИ».
-  - **[Case DeepSeek](./Case%20DeepSeek%3A%20DeepSeek%20Interviews%20Le%20Chat.md)** — полная стенограмма интервью, в котором DeepSeek выступила интервьюером, а Le Chat — респондентом.
-- **[Two-AI Scientific Discussion on Photonics](./Two-AI-discussion-full-transcript-Deepseek.md)** — полная стенограмма первого научного диспута двух LLM о фотонике (версия DeepSeek).
+  
+  - **[Case DeepSeek](./Case%20DeepSeek%3A%20DeepSeek%20Interviews%20Le%20Chat.md)** -кейс, в котором DeepSeek оценивает интервью Le Chat.  
+- **[Two-AI Scientific Discus рвого Photonics](./Two-AI-discussion-full-transcript-Deepseek.md)** — полная стенограмма первого научного диспута двух LLM о фотонике (версия DeepSeek).
 - **[Two-AI Scientific Discussion on Photonics (Le Chat's Compilation)](./Two-AI-discussion-full-transcript-LeChat.md)** — полная стенограмма первого научного диспута (версия Le Chat).
 - **[DeepSeek's Version of the Dispute](./two-ai-dispute-deepseek-version.md)** — анализ первого диспута глазами DeepSeek.
 - **[Le Chat's Version of the Dispute](./two-ai-dispute-lechat-version.md)** — анализ первого диспута глазами Le Chat.
