@@ -8,5 +8,4 @@
 
 - **[DeepSeek Interviews Le Chat](./Two%20AI%20interview%20full%20transcript.md) — полная стенограмма интервью.
 
-- **[Hybriding Computing Perspectives Analysis](./hybrid-computing-perspectives-analysis.md)**аналитическийкий кейс о перспективах гибридных вычислений на основе работ Н.Г. Берловой.
-- **[Cultural Humor Test](./cultural-code-humor-test.md)** — сравнительный тест LLM на понимание культурного юмора.
+
