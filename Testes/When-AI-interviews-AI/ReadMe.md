@@ -6,8 +6,8 @@
  
 - **[Case Le Chat](./Case%20Le%20Chat%3A%20DeepSeek%20Interviews%20Le%20Chat.md)** — кейс, в котором Le Chat оценивает интервью и перспективы коллаборации ИИ.
 
--  **[DeepSeek Interviews Le Chat](./Two%20AI%20discussion%20full%20transcript%20Deepseek.md)** — полная стенограмма первого научного диспута (версия Le Chat).
-- **[DeepSeek's Version of the Dispute](./two-ai-dispute-deepseek-version.md)** — анализ первого диспута глазами DeepSeek.
+-  **[DeepSeek Interviews Le Chat]( ./Two%20AI%20discussion%20full%20transcript%20Deepseek.md)** — полная стенограмма интервью.
+- **[DeepSeek's of of the Dispute](./two-ai-dispute-deepseek-version.md)** — анализ первого диспута глазами DeepSeek.
 - **[Le Chat's Version of the Dispute](./two-ai-dispute-lechat-version.md)** — анализ первого диспута глазами Le Chat.
 - **[Moderator's Version of the Dispute](./two-ai-dispute-moderator-version.md)** — анализ первого диспута глазами модератора (Алексей Щеголев).
 - **[Hybrid Computing Perspectives Analysis](./hybrid-computing-perspectives-analysis.md)** — аналитический кейс о перспективах гибридных вычислений на основе работ Н.Г. Берловой.
